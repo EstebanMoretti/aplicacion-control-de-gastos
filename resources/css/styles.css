@@ -1,7 +1,7 @@
 td,th {
     padding: 10px;
     text-align: center;
-    border: solid blue 1px;
+    border: solid #ff0000 2px;
 }
 
 .tableFormat table{
